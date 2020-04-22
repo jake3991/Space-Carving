@@ -1,0 +1,8 @@
+function [voxels] = carveSpace(Pi,imgBinary,voxels)
+%Carves space from 3D voxels 
+%   Using P matrix projects each voxel into image space, if the voxel
+%   Falls on the dancer it is occupied,
+outputArg1 = inputArg1;
+outputArg2 = inputArg2;
+end
+
